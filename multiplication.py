@@ -1,3 +1,6 @@
+# /usr/bin/python3
+# -*-coding:utf-8 -*
+
 def multiplication(nb, limite):
 
     i = 0  # C'est notre variable compteur que nous allons incrémenter dans la boucle

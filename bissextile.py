@@ -1,3 +1,6 @@
+# /usr/bin/python3
+# -*-coding:utf-8 -*
+
 # Programme testant si une année, saisie par l'utilisateur,
 # est bissextile ou non
 

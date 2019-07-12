@@ -1,3 +1,6 @@
+# /usr/bin/python3
+# -*-coding:utf-8 -*
+
 from multiplication import *
 
 nombre = input("nombre : ")
