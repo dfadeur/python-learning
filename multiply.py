@@ -7,15 +7,13 @@ nombre = input("nombre : ")
 
 try:
     nombre = int(nombre)
-except:
+except ValueError:
     print("vous n'avez pas entré un nombre correct")
 else:
     limite = input("limite : ")
     try:
         limite = int(limite)
-    except:
+    except ValueError:
         print("vous n'avez pas entré une limite correcte")
     else:
         multiplication(nombre, limite)
-
-
